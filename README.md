@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas Chaudhary</h1>
-<h3 align="center">A passionate Data Scientist, FrontEnd Developer, Programmer, and Software Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer, Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently working at **CAPGEMINI TECHNOLOGY SERVICES LTD**
 
-- 💬 Ask me about **AI, ML, SDE, DSA, FrontEnd Development**
+- 💬 Ask me about **AI, ML, SDE, DSA**
 
 - 📫 How to reach me **vikaschaudhary2309@gmail.com**
 
